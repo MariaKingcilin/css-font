@@ -1,0 +1,44 @@
+.a{
+	font-style:normal;
+	font-size:30px;
+}
+.b{
+	font-style:italic;
+	font-size:30px;
+}
+.c{
+	font-style:oblique;
+	font-size:30px;
+}
+.d{
+	font-weight:normal;
+	font-size:30px;
+}
+.e{
+	font-weight:lighter;
+	font-size:30px;
+}
+.f{
+	font-weight:bold;
+	font-size:30px;
+}
+.g{
+	font-weight:900;
+	font-size:30px;
+}
+.h{
+	font-variant:small-caps;
+	font-size:30px;
+}
+.i{
+	font-variant:normal;
+	font-size:30px;
+}
+.j{
+	font-size:30px;
+}
+.k{
+	font-family: 'Rubik Iso', cursive;
+	font-size:30px;
+	color:blue;
+}
